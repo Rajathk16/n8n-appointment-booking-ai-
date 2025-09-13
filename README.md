@@ -29,7 +29,7 @@ This workflow was created after completing the **n8n Masterclass by Mayank (7h 3
 5. Activate the workflow and start booking!
 
 ## 📷 Screenshot
-![Workflow](screenshots/workflow.png)
+(Screenshot 2025-09-13 101351.png)
 
 ---
 
